@@ -8,7 +8,7 @@ function Header() {
       <div>
         <Logo />
       </div>
-      <div className="mt-8 lg:mt-0  flex justify-center items-center">
+      <div className="mt-8 lg:mt-0 flex justify-center items-center">
         <GroupButtons />
       </div>
     </header>

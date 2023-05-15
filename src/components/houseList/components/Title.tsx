@@ -5,5 +5,5 @@ type Props = {
 };
 
 export default function Title({ title }: Props) {
-  return <h2 className="text-mainBlack font-mulishFont ">{title} </h2>;
+  return <h2 className="text-mainBlack font-mulishFont  ">{title} </h2>;
 }

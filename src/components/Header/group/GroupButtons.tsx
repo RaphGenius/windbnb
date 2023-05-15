@@ -5,7 +5,7 @@ const GroupButtons = () => {
   return (
     <div
       className="border flex justify-between items-center gap-2
-    border-gray-200  w-80 p-2 rounded-xl shadow-lg "
+    border-gray-200 max-w-md  w-4/5 lg:w-80 p-2 rounded-xl shadow-lg "
     >
       <SearchButton title="Ville" />
       <SearchButton title="Invité" />
